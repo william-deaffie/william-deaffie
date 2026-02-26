@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚡ Fun fact: ...Octopuses only have only one type of photoreceptor in their eyes, meaning they likely see the world in shades of grey. Good thing they come equipped with those opsins.
+⚡ Fun fact: Octopuses only have only one type of photoreceptor in their eyes, meaning they likely see the world in shades of grey. Good thing they come equipped with those opsins.
 
 <!--
 **william-deaffie/william-deaffie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
